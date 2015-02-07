@@ -1,0 +1,6 @@
+C:\Users\Amit\Documents\Visual Studio 2012\MvcApplication1\new\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\Users\Amit\Documents\Visual Studio 2012\MvcApplication1\new\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Amit\Documents\Visual Studio 2012\MvcApplication1\new\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Amit\Documents\Visual Studio 2012\MvcApplication1\new\ClassLibrary1\bin\Debug\System.Linq.Dynamic.dll
+C:\Users\Amit\Documents\Visual Studio 2012\MvcApplication1\new\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Amit\Documents\Visual Studio 2012\MvcApplication1\new\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

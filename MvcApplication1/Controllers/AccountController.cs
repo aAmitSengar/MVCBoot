@@ -10,6 +10,7 @@ using Microsoft.Web.WebPages.OAuth;
 using WebMatrix.WebData;
 using MvcApplication1.Filters;
 using MvcApplication1.Models;
+using ClassLibrary1;
 
 namespace MvcApplication1.Controllers
 {
@@ -63,6 +64,8 @@ namespace MvcApplication1.Controllers
         [AllowAnonymous]
         public ActionResult Register()
         {
+            PasswordGenerator pg = new PasswordGenerator();
+            var aaa = pg.Generate();
             return View();
         }
 
